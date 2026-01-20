@@ -1,0 +1,9 @@
+README.md
+crivo_cli.py
+setup.py
+crivo_cli.egg-info/PKG-INFO
+crivo_cli.egg-info/SOURCES.txt
+crivo_cli.egg-info/dependency_links.txt
+crivo_cli.egg-info/entry_points.txt
+crivo_cli.egg-info/requires.txt
+crivo_cli.egg-info/top_level.txt

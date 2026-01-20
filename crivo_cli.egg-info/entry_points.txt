@@ -1,0 +1,3 @@
+[console_scripts]
+crivo-thalam = crivo_cli:cli
+
